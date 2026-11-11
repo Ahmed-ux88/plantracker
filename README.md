@@ -1,2 +1,2 @@
-# plantracker
-Project Tracker Tool
+# Plan Tracker
+Cloud project-plan tracker (static site, data stored in Supabase).
